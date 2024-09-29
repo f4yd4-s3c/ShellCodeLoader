@@ -1,0 +1,6 @@
+E:\programing\Remote_Proc\~\Desktop\publish\Remote_Proc.pdb
+E:\programing\Remote_Proc\~\Desktop\publish\PowerShell.Core.Instrumentation.dll
+E:\programing\Remote_Proc\~\Desktop\publish\pwrshplugin.dll
+E:\programing\Remote_Proc\~\Desktop\publish\pwrshplugin.pdb
+E:\programing\Remote_Proc\~\Desktop\publish\sni.dll
+E:\programing\Remote_Proc\~\Desktop\publish\Remote_Proc.exe
